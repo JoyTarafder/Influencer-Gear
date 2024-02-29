@@ -24,11 +24,13 @@
 }
 .menu > ul {
     display: flex;
+    padding-top: 22px;
 }
 
 .menu > ul > li{
     list-style: none;
     margin-right: 20px;
+    
 }
 
 .menu > ul > li > a{
