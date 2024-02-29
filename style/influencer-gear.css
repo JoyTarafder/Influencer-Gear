@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 70px 120px;
+    padding: 50px 120px;
 }
 .nav > h1{
     font-size: 1.5rem;
