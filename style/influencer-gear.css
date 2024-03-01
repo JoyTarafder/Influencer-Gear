@@ -42,6 +42,27 @@
 
 /* main section style */
 
+.hero-container{
+    padding: 50px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-content > h1{
+    font-size: 3.25rem;
+    color: #3A3A3A; 
+}
+.hero-content > p{
+    font-size: 1rem;
+    color: #3A3A3A;
+    margin-top: 20px;
+    font-weight: 600; 
+}
+.hero-img{
+    padding-right: 50px;
+    background: url(/images/Circle\ design.svg), no-repeat;
+}
+
 .Sponcered-products-img{
     padding: 50px 227px;
     display: flex;
@@ -72,7 +93,7 @@
     color: #3A3A3A;
     margin-top: 10px;
 }
-.Featured-products-contain > button{
+.Featured-products-contain-btn{
     display: inline-flex;
     align-items: flex-start;
     gap: 8px;
