@@ -110,6 +110,17 @@
     font-size: 1.5rem;
     font-weight: 400;
     color: #000000DE;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.rating-star-content{
+    font-size: 14px;
+    color: #5E6366;
+    font-weight: 700; 
+    margin-left: 5px;
+}
+.rating-star{
+    display: flex;
 }
 
 /* Featured products section  */
