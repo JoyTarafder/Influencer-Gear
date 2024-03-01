@@ -56,10 +56,11 @@
     font-size: 1rem;
     color: #3A3A3A;
     margin-top: 20px;
+    margin-bottom: 20px;
     font-weight: 600; 
 }
 .hero-img{
-    padding-right: 50px;
+    padding-right: 70px;
     background: url(/images/Circle\ design.svg), no-repeat;
 }
 
