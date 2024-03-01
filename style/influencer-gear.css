@@ -69,6 +69,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 106px;
+    margin-bottom: 100px;
 }
 
 /* card section */
@@ -123,6 +125,16 @@
 .rating-star{
     display: flex;
 }
+.see-more{
+    display: flex;
+    gap: 8px;
+    padding: 10px 24px;
+    color: #E02C6DDE;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    margin-left: 1150px;
+}
 
 /* Featured products section  */
 
@@ -131,6 +143,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 100px;
+    margin-top: 80px;
 }
 .Featured-products-contain{
     width: 50%;
